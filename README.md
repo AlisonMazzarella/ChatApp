@@ -1,24 +1,23 @@
-# ChatApp
-ChatApp web application 
+#DogApp
+Dog web application 
 # Overview
 
-{Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
+My website is mostly dedicated to dogs, there is a page dedicated to a slideshow of cute dog pics sorted by breed, and there is a chatboard for dog facts. When you run the html in live server the first page that pops up allows the user to create a login, and from there navigate to the dog slideshow page, or the chatboard. 
 
-{Describe your purpose for writing this software.}
+There are many websites dedicated to specific topics that interest people, this website is dedicated to dog enthusiasts who want to look at cute pictures of dogs based on the breed they select. It's also informative because it introduces you to breeds you might have never known about, and what they look like. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZGYCqlWsf88)
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+I have three webpages on my site: 
+The home page introduces you to the login option, and navigation links. 
+The dog page lets you select which breeds you want to see a slideshow of. 
+The chat page shows you a fun chatroom with dog facts. 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used Visual Studio Code to create interactive webpages with HTML, CSS, and JavaScript. 
 
 # Useful Websites
 
@@ -28,7 +27,6 @@ ChatApp web application
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Some of the images don't feel as cohesive as I would've liked, I am sure with time I can find better images.
+* I wanted to use a chatbot instead of a fixed chatroom but I couldn't get the JavaScript code to function, I would like to fix that. 
+* The login box feels small, in the future it would probably look better placed somewhere else. 
